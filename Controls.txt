@@ -1,0 +1,18 @@
+How to play
+
+A = jump
+X = punch
+Y = self-destruct
+B = mid-air dash
+
+left Joystick to move
+start button to pause
+
+Keyboard (kinda)
+
+WASD Movement
+E = punch
+Space = jump
+Q = self-destruct
+R = dash
+enter = pause
